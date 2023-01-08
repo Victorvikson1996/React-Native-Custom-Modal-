@@ -1,3 +1,3 @@
-import Modal from "./Modal";
+import ModalLayout from "./ModalLayout";
 
-export { Modal };
+export { ModalLayout };
